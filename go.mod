@@ -6,6 +6,7 @@ require (
 	github.com/golang-jwt/jwt/v5 v5.1.0
 	github.com/gomarkdown/markdown v0.0.0-20230922112808-5421fefb8386
 	github.com/gorilla/mux v1.8.0
+	github.com/jackc/pgx/v5 v5.5.1
 	github.com/joho/godotenv v1.5.1
 	github.com/nicksnyder/go-i18n/v2 v2.2.1
 	github.com/ostafen/clover/v2 v2.0.0-alpha.3
@@ -31,11 +32,11 @@ require (
 	github.com/google/orderedcode v0.0.1 // indirect
 	github.com/jackc/pgpassfile v1.0.0 // indirect
 	github.com/jackc/pgservicefile v0.0.0-20221227161230-091c0ba34f0a // indirect
-	github.com/jackc/pgx/v5 v5.5.1 // indirect
 	github.com/jackc/puddle/v2 v2.2.1 // indirect
 	github.com/klauspost/compress v1.15.9 // indirect
 	github.com/montanaflynn/stats v0.0.0-20171201202039-1bf9dbcd8cbe // indirect
 	github.com/pkg/errors v0.9.1 // indirect
+	github.com/rogpeppe/go-internal v1.11.0 // indirect
 	github.com/satori/go.uuid v1.2.0 // indirect
 	github.com/vmihailenco/msgpack/v5 v5.3.5 // indirect
 	github.com/vmihailenco/tagparser/v2 v2.0.0 // indirect
